@@ -3,6 +3,11 @@
   "displayName": "Tuero Theme",
   "description": "Personal dark theme",
   "version": "0.0.1",
+  "publisher": "tuero",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tuero/vscode-dark-theme"
+  },
   "engines": {
     "vscode": "^1.75.0"
   },
