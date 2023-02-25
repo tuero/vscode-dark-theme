@@ -81,9 +81,6 @@
         "editor.lineHighlightBackground": "#3f3f4588",
         "editorInlayHint.background": "#232326",
         "editorInlayHint.foreground": "#a8adb1aa"
-        //"editor.lineHighlightBorder": "#3f3f4555",
-		// "activityBarBadge.background": "#007acc",
-		// "sideBarTitle.foreground": "#bbbbbb",
 	},
     "semanticHighlighting": true,
     "semanticTokenColors": {
@@ -95,8 +92,8 @@
             "fontStyle": "bold italic"
         },
         "variable.readonly": {
-            "foreground": "#d0d3d5",
-            "fontStyle": "bold italic"
+            "foreground": "#F78C6C",
+            "fontStyle": "bold"
         },
         "class": {
             "foreground": "#e9ba63"
@@ -111,7 +108,6 @@
             "foreground": "#57a5e5"
         },
         "parameter": {
-            // "foreground": "#e09dad",
             "foreground": "#d0d3d5",
             "fontStyle": "italic bold"
         },
@@ -342,7 +338,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FF5370"
+				"foreground": "#F78C6C"
 			}
 		},
 		{
